@@ -1,6 +1,6 @@
 {
   "name": "node-tdd-lessons",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Node Test Driven Development Lessons",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
